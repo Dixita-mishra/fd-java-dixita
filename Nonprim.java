@@ -1,0 +1,10 @@
+public class Nonprim{
+    public static void main(String args[]){
+        int []b={3,6,7};
+        int c[]={3,0,7};
+        int a[]={3,3,7};
+        System.out.println(b[1]);
+        System.out.println(c[0]);
+        System.out.println(a[2]);
+    }
+}
